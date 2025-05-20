@@ -309,19 +309,19 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia #DEEPHOUSEDISTRICT",Dance TV Estonia Dance TV Estonia #DEEPHOUSEDISTRICT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia #DEEPHOUSEDISTRICT
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia #TECNOWAREHOUSE
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia #TECHNOHOUSETERRACE
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia #HOUSEFLOOR
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia #MAINSTAGE
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia #CHILLAF
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia #MELODICTECH
 https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
