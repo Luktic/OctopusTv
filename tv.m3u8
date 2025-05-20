@@ -309,7 +309,7 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia #DEEPHOUSEDISTRICT",Dance TV Estonia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia #DEEPHOUSEDISTRICT",Dance TV Estonia Dance TV Estonia #DEEPHOUSEDISTRICT
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" group-title="Musicales" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
